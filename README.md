@@ -7,7 +7,7 @@ This repository documents my completion of a hands-on lab working with Google Cl
 https://youtu.be/43FwhqVg3fI
 
 
-## Overview
+## Overview 
 
 In this lab, I explored:
 - The Google Cloud web-based interface
